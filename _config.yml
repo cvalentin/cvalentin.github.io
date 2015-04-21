@@ -1,8 +1,8 @@
 # Site wide configuration
 
-title:            Site Title
+title:            Carlo Valentin 
 locale:           en_US
-url:              
+url:             http://cvalentin.github.io 
 
 
 # Jekyll configuration
@@ -26,12 +26,12 @@ kramdown:
 
 # Site owner
 owner:
-  name: Your Name
+  name: Carlo Valentin 
   avatar: bio-photo.jpg
-  bio: "Describe your self."
-  email: 
+  bio: "I break things for a living. In my spare time I save virtual worlds and play electronic music."
+  email: contact@carlovalentin.com 
   disqus-shortname: 
-  twitter: #username
+  twitter: @carlo_valentin 
   facebook: #username
   google:
     plus: #username
@@ -40,7 +40,7 @@ owner:
     ad-client: 
     ad-slot: 
   bing-verify: 
-  github: #username
+  github: cvalentin 
   stackoverflow: #http://stackoverflow.com/users/123456/username
   linkedin: #username
   xing: #username
