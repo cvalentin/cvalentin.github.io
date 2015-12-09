@@ -1,7 +1,7 @@
 # Site settings
 title: Carlo Valentin
 email: blog@carlovalentin.com
-sidebar: "Breaking things by day, saving virtual worlds by night."
+sidebar: "Breaking things by day,<br>saving virtual worlds by night."
 description: > # this means to ignore newlines until "baseurl:"
   
 baseurl: "/" # the subpath of your site, e.g. /blog/
