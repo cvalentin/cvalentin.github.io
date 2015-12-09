@@ -1,30 +1,21 @@
 ---
 layout: page
-title: About
+title: About the Author
+permalink: /about/
 ---
+<div>
+<img class="image profile" src="/images/profile.jpg" align="right">
 
-- - -
+<p>
 
-##Who am I?
-I'm Carlo Valentin, a information security consultant. I currently work for NCC Group secializing in web application pentests. In my free time, I like to DJ at local nightclubs and play lengthy video games.
+My name is Carlo Valentin and I'm enjoying life in Seattle. I'm an information security consultant currently working for NCC Group. I enjoy programming, video games, and most things infosec. 
 
-- - -
+</p>
 
-##What am I currently doing?
+<p>
 
-###Tech-related:
-* Learning Rust, Go
-* Wearable Security
-* Cloud Security
+This website exists as a collection of things I've worked on and opinions I elaborate over. From game critiques to my personal musings, I hope this site becomes a project I can regularly update and share my discoveries.
 
-###Health-related
-* Pollo-pescetarian diet
-* Parkour
-* Rockclimbing
+</p>
+</div>
 
-###Music-related
-* Learning music theory
-* Learning piano
-* Learning Ableton
-
-- - -

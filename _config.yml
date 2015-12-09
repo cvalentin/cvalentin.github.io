@@ -1,21 +1,20 @@
-# Permalinks
-#
-# Use of `relative_permalinks` ensures post links from the index work properly.
-permalink:           pretty
-relative_permalinks: true
+# Site settings
+title: Carlo Valentin
+email: blog@carlovalentin.com
+sidebar: "Breaking things by day, saving virtual worlds by night."
+description: > # this means to ignore newlines until "baseurl:"
+  
+baseurl: "/" # the subpath of your site, e.g. /blog/
+url: "http://localhost:4000" # the base hostname & protocol for your site
+twitter_username: carlo_valentin
+github_username:  cvalentin
+permalink: /:categories/:title
+# Build settings
+markdown: kramdown
 
-# Setup
-title:               'Carlo Valentin'
-tagline:             ''
-description:         'I am Carlo Valentin. I break things for a living. In my spare time I save virtual worlds and play electronic music.'
-url:                 http://carlovalentin.com
-baseurl:             ''
-paginate:            5
+paginate: 4
 
-# About/contact
-author:
-  name:              Carlo Valentin
-  email:             contact@carlovalentin.com
+author: Carlo Valentin
 
-# Custom vars
-version:             1.0.0
+gems: [jekyll-paginate]
+
