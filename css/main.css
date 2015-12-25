@@ -1524,6 +1524,9 @@
 			color: inherit;
 			border-bottom: 0;
 		}
+	h1 {
+		font-size: 1.3em;
+	}
 
 	h2 {
 		font-size: 1.1em;
