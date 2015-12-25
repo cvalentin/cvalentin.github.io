@@ -1,5 +1,10 @@
 <head>
-  <title>{{ site.title }}</title>
+  <title>
+    {{ site.title }}
+    {% if page.layout == "post" %}
+    - {{page.title}}
+    {% endif %}
+  </title>
 	<meta charset="utf-8" />
 	<meta name="viewport" content="width=device-width, initial-scale=1" />
 	<!--[if lte IE 8]><script src="{{ site.baseurl }}js/ie/html5shiv.js"></script><![endif]-->
