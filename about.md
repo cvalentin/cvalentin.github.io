@@ -3,7 +3,7 @@ layout: page
 title: About the Author
 permalink: /about/
 ---
-##{{ site.sidebar }}
+<h2>{{ site.sidebar }}</h2>
 <div>
 <img class="image profile" src="/images/profile.jpg" align="right">
 
