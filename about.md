@@ -3,6 +3,7 @@ layout: page
 title: About the Author
 permalink: /about/
 ---
+##{{ site.sidebar }}
 <div>
 <img class="image profile" src="/images/profile.jpg" align="right">
 
@@ -18,4 +19,3 @@ This website exists as a collection of things I've worked on and opinions I elab
 
 </p>
 </div>
-
